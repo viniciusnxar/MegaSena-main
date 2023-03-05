@@ -78,6 +78,7 @@ function verificaNumerosAcertados() {
 //Botao Limpar/nao funciona
 //Span, guarda todos os numeros na mega sena
 
+
 var botaoLimpar = document.getElementById('botaoLimpar');
 var span = document.getElementsByClassName('numeros');
 botaoLimpar.addEventListener('click', lipardadosdatela);
